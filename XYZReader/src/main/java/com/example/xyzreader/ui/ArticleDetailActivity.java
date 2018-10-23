@@ -26,6 +26,7 @@ import com.example.xyzreader.data.ItemsContract;
 public class ArticleDetailActivity extends AppCompatActivity
         implements LoaderManager.LoaderCallbacks<Cursor> {
 
+    private String test = "testing";
     private Cursor mCursor;
     private long mStartId;
 
