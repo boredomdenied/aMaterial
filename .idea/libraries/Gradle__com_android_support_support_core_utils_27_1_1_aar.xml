@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.android.support:support-core-utils-27.1.1">
+  <library name="Gradle: com.android.support:support-core-utils:27.1.1@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/64184f64461768f9def13f7ac2bf2901/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/64184f64461768f9def13f7ac2bf2901/jars/classes.jar!/" />
